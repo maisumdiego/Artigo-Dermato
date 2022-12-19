@@ -2,6 +2,8 @@
 
 ## Navegação
 1. [Sobre o projeto](##Sobre-o-projeto)
+2. [Ferramentas utilizadas](##Ferramentas-utilizadas)
+3. [Conhecendo os dados](##Conhecendo-os-dados)
 
 ## Sobre o projeto
 ### Dermatologia hospitalar, análise do perfil das consultorias dermatológicas
