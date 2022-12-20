@@ -157,4 +157,4 @@ Classificação dos hospitais de acordo com a sua finalidade, realizada pelo pr�
 |                       |                     3 |         24 |
 
 ## Relatório completo
-O arquivo do relatório completo, com os códigos e todas as tabelas, está disponível neste repositório como "[Relatório de Análise](https://github.com/maisumdiego/Artigo-Dermato/blob/master/Relat%C3%B3rio%20de%20An%C3%A1lise.ipynb)".
+O arquivo do relatório completo, com os códigos e todas as tabelas, está disponível neste repositório como "[Relatório de Análise](https://github.com/maisumdiego/Artigo-Dermato/blob/master/Relat%C3%B3rio%20de%20An%C3%A1lise.ipynb)". O artigo científico já foi submetido e está em fase de publicação. Assim que estiver disponível, trarei novidades.
