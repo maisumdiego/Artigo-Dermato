@@ -16,7 +16,7 @@
 
 ## Sobre o projeto
 ### Dermatologia hospitalar, análise do perfil das consultorias dermatológicas
-Os dados tratados e analisados neste relatórios são referentes a pesquisa realizada no artigo **"Dermatologia hospitalar: análise do perfil das consultorias hospitalares em hospital terciário no sul do Brasil"**, dos autores MSc Iago Gonçalves Ferreira, MS Camila Saraiva Almeida, MS Lucas Abascal Bulcão, BSCE Diego Gonçalves Ferreira, PhD Renan Rangel Bonamigo, PhD Magda Blessmann Weber.
+Os dados tratados e analisados neste relatório são referentes a pesquisa realizada no artigo **"Dermatologia hospitalar: análise do perfil das consultorias hospitalares em hospital terciário no sul do Brasil"**, dos autores MSc Iago Gonçalves Ferreira, MS Camila Saraiva Almeida, MS Lucas Abascal Bulcão, BSCE Diego Gonçalves Ferreira, PhD Renan Rangel Bonamigo, PhD Magda Blessmann Weber.
 
 ### Sobre o estudo
 "As doenças de pele apresentam elevada prevalência no cenário hospitalar, representando importantes fatores de risco de morbimortalidade e de impacto nos custos hospitalares. Nessa perspectiva, a Dermatologia pode propiciar notáveis contribuições à assistência hospitalar, auxiliando as demais especialidades médicas no manejo clínico adequado das afecções dermatológicas. À vista disso, este estudo teve como objetivo analisar o perfil das requisições e consultorias realizadas pelo serviço de Dermatologia em complexo hospitalar terciário no sul do Brasil."
